@@ -1,0 +1,5 @@
+﻿Nombre,Cantidad,Componente
+"U1",1," Arduino Uno R3"
+"SERVO1",1,"Posicional Microservomotor"
+"U2",1,"Basado en MCP23008, 32 (0x20) LCD 16 x 2 (I2C)"
+"DIST1",1," Sensor de distancia ultrasónico (4 pines)"
