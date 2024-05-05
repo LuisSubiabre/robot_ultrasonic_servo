@@ -1,4 +1,4 @@
-# Proyecto robotica arduino:
+# Proyecto robot arduino:
 ## Descripción: 
 Usando una placa Arduino Uno en un proyecto de robótica. La propuesta consiste en que, al detectar un objeto cercano con el sensor de ultrasonido, se active el servo motor para abrir una compuerta o levantar un puente y permitir el paso de otro robot. Una vez completada esta acción y al no detectar objetos cercanos, el servo motor se activa de nuevo para cerrar la compuerta o bajar el puente.
 
@@ -12,7 +12,7 @@ Usando una placa Arduino Uno en un proyecto de robótica. La propuesta consiste 
 ![Circuito](https://github.com/LuisSubiabre/robot_ultrasonic_servo/blob/main/assets/imgs/circuit.png)
 
 ## Screenshot 1 demo
-![Screenshot1](https://github.com/LuisSubiabre/robot_ultrasonic_servo/blob/main/assets/imgs/screenshot1.png)
+![Screenshot1](https://github.com/LuisSubiabre/robot_ultrasonic_servo/blob/main/assets/imgs/screenshot1.jpeg)
 
 ## Docs
 ![Scheme](https://github.com/LuisSubiabre/robot_ultrasonic_servo/blob/main/assets/docs/scheme.pdf)
