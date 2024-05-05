@@ -15,5 +15,5 @@ Usando una placa Arduino Uno en un proyecto de robótica. La propuesta consiste 
 ![Screenshot1](https://github.com/LuisSubiabre/robot_ultrasonic_servo/blob/main/assets/imgs/screenshot1.jpeg)
 
 ## Docs
-![Scheme](https://github.com/LuisSubiabre/robot_ultrasonic_servo/blob/main/assets/docs/scheme.pdf)
-![Components](https://github.com/LuisSubiabre/robot_ultrasonic_servo/blob/main/assets/docs/components.csv)
+>- ![Scheme](https://github.com/LuisSubiabre/robot_ultrasonic_servo/blob/main/assets/docs/scheme.pdf)
+>- ![Components](https://github.com/LuisSubiabre/robot_ultrasonic_servo/blob/main/assets/docs/components.csv)
